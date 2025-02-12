@@ -1,7 +1,7 @@
 const teamData = {
     leadOrganizers: [
         {
-            name: "Rahul Sharma",
+            name: "Siddharth Sharma",
             role: "Lead Organizer",
             image: "https://randomuser.me/api/portraits/men/1.jpg",
             social: {
