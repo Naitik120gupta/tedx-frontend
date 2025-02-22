@@ -23,7 +23,7 @@ const teamData = {
         {
             name: "Amit Kumar",
             role: "Technical Lead",
-            image: "https://randomuser.me/api/portraits/men/2.jpg",
+            image: "../images/pic.jpg",
             social: {
                 linkedin: "#",
                 github: "#",
@@ -32,7 +32,7 @@ const teamData = {
         {
             name: "Neha Singh",
             role: "Marketing Lead",
-            image: "https://randomuser.me/api/portraits/women/2.jpg",
+            image: "../images/pic.jpg",
             social: {
                 linkedin: "#",
                 instagram: "#",
@@ -41,7 +41,7 @@ const teamData = {
         {
             name: "Arjun Verma",
             role: "Content Lead",
-            image: "https://randomuser.me/api/portraits/men/3.jpg",
+            image: "../images/pic.jpg",
             social: {
                 linkedin: "#",
                 medium: "#",
@@ -52,7 +52,7 @@ const teamData = {
         {
             name: "Vikram Singh",
             role: "Technical Team",
-            image: "https://randomuser.me/api/portraits/men/4.jpg",
+            image: "../images/pic.jpg",
             social: { linkedin: "#" },
         },
         // Add more team members here...
