@@ -1,23 +1,23 @@
 const teamData = {
     leadOrganizers: [
         {
-            name: "Siddharth Sharma",
-            role: "Lead Organizer",
-            image: "https://randomuser.me/api/portraits/men/1.jpg",
+            name: "Rahul Sharma",
+            role: "Head Organizer",
+            image: "../images/rahul.jpeg",
             social: {
                 linkedin: "#",
-                twitter: "#"
-            }
+                twitter: "#",
+            },
         },
-        {
-            name: "Priya Patel",
-            role: "Co-Lead Organizer",
-            image: "https://randomuser.me/api/portraits/women/1.jpg",
-            social: {
-                linkedin: "#",
-                twitter: "#"
-            }
-        }
+        // {
+        //     name: "Priya Patel",
+        //     role: "Co-Lead Organizer",
+        //     image: "https://randomuser.me/api/portraits/women/1.jpg",
+        //     social: {
+        //         linkedin: "#",
+        //         twitter: "#"
+        //     }
+        // }
     ],
     coreTeam: [
         {
@@ -26,8 +26,8 @@ const teamData = {
             image: "https://randomuser.me/api/portraits/men/2.jpg",
             social: {
                 linkedin: "#",
-                github: "#"
-            }
+                github: "#",
+            },
         },
         {
             name: "Neha Singh",
@@ -35,8 +35,8 @@ const teamData = {
             image: "https://randomuser.me/api/portraits/women/2.jpg",
             social: {
                 linkedin: "#",
-                instagram: "#"
-            }
+                instagram: "#",
+            },
         },
         {
             name: "Arjun Verma",
@@ -44,18 +44,18 @@ const teamData = {
             image: "https://randomuser.me/api/portraits/men/3.jpg",
             social: {
                 linkedin: "#",
-                medium: "#"
-            }
-        }
+                medium: "#",
+            },
+        },
     ],
     teamMembers: [
         {
             name: "Vikram Singh",
             role: "Technical Team",
             image: "https://randomuser.me/api/portraits/men/4.jpg",
-            social: { linkedin: "#" }
+            social: { linkedin: "#" },
         },
         // Add more team members here...
         // Copy this structure for all 15 remaining team members
-    ]
+    ],
 };
