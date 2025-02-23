@@ -1,8 +1,8 @@
 const teamData = {
-    leadOrganizers: [
+    HeadOrganizers: [
         {
-            name: "Rahul Sharma",
-            role: "Head Organizer",
+            name: "Mr. Rahul Sharma",
+            role: "",
             image: "../images/rahul.jpeg",
             social: {
                 linkedin: "#",
@@ -19,10 +19,10 @@ const teamData = {
         //     }
         // }
     ],
-    coreTeam: [
+    CoreOrganisers: [
         {
-            name: "Amit Kumar",
-            role: "Technical Lead",
+            name: "Nitin Sharma",
+            role: "",
             image: "../images/pic.jpg",
             social: {
                 linkedin: "#",
@@ -30,8 +30,8 @@ const teamData = {
             },
         },
         {
-            name: "Neha Singh",
-            role: "Marketing Lead",
+            name: "Pankaj Goel",
+            role: "",
             image: "../images/pic.jpg",
             social: {
                 linkedin: "#",
@@ -39,8 +39,8 @@ const teamData = {
             },
         },
         {
-            name: "Arjun Verma",
-            role: "Content Lead",
+            name: "Vishal Choudhary",
+            role: "",
             image: "../images/pic.jpg",
             social: {
                 linkedin: "#",
@@ -50,8 +50,8 @@ const teamData = {
     ],
     teamMembers: [
         {
-            name: "Vikram Singh",
-            role: "Technical Team",
+            name: "Prithvi Raj Chauhan",
+            role: "",
             image: "../images/pic.jpg",
             social: { linkedin: "#" },
         },

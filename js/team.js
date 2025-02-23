@@ -40,9 +40,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Render all sections
     teamContainer.innerHTML = `
-        ${createCategorySection('Lead Organizers', teamData.leadOrganizers)}
-        ${createCategorySection('Core Team', teamData.coreTeam)}
-        ${createCategorySection('Team Members', teamData.teamMembers)}
+        ${createCategorySection('Chief Organiser', teamData.HeadOrganizers)}
+        ${createCategorySection('Head Organisers', teamData.CoreOrganisers)}
+        ${createCategorySection('Core Organiser', teamData.teamMembers)}
     `;
 
     // Initialize animations
